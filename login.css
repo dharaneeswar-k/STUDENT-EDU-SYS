@@ -1,0 +1,14 @@
+.image {
+    background-image: url("");
+    background-size: cover;
+    height: 100vh;
+}
+
+.BUTTON {
+    font-family: Sans-Serif;
+    font-size: 15px;
+}
+.sub{
+    color: white;
+    background-color: blue;
+}
